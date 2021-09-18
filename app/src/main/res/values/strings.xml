@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IncreamentDemo</string>
+    <string name="click_to_increament">Click to Increament</string>
+</resources>
